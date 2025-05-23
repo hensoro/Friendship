@@ -31,6 +31,6 @@ public class FriendSim {
             }
         }
         System.out.print("this "+List.get(Friend).Name+" has a similarity of ");
-        return (sim/(8-sim)*100);
+        return Math.round(sim/(8-sim)*100);
     }
 }
