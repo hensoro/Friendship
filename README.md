@@ -1,0 +1,3 @@
+Good Friends are hard to come by. Especially in this day and age. There are so many apps for college students to hook up and date but not so many for friends. Thats how I came up with the friendship finder. 
+This app uses an api to read your excelsheet and then finds the similarities between entries. This will help students find similarities of activiities, Movies, etc and possibly make friends off of that. Please edit your file path when using this code or you will get an error. 
+This Code helped me understand how to make and work with an api, use jaccard similarity to do things such as "match making", and the functionalities and limits of Java Classes and methods.
